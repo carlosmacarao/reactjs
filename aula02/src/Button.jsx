@@ -5,7 +5,7 @@ function Button () {
 
     return (
         <>
-            <button>Confirm</button>
+            <button>Hover Me</button>
         </>
     )
 }
